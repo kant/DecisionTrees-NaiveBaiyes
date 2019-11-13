@@ -11,7 +11,7 @@ and Others(1).
  
  Dataset: 
    The dataset consists tweets of three classes. 
-   Class 1 - Tweets regarding American Congress
+   Class 1 - Tweets regarding other type of congress
    Class 2 - Tweets regarding Indian National Congress
    Class 3 - Tweets regarding mobile world Congress
    
