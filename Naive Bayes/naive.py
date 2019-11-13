@@ -5,6 +5,9 @@ import string
 inpTweets = csv.reader(open('dataset_v1.csv', 'rb'),  delimiter=',', quotechar='"', escapechar='\\')
 testTweets= csv.reader(open('dataset_v1.csv', 'rb'),  delimiter=',', quotechar='"', escapechar='\\')
 
+#sample comment by mani
+
+
 def processTweet(tweet):
     tweet = tweet.lower()
     tweet = re.sub('((www\.[^\s]+)|(https?://[^\s]+))','',tweet)
