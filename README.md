@@ -1,5 +1,5 @@
 # DecisionTrees and NaiveBayes implementation in python
- Implementation of Naive Bayes and Decision Trees in python 2
+ Implementation of Naive Bayes and Decision Trees from scratch in python 2
  Multiclass classification problem.
  
  Problem :
