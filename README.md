@@ -18,7 +18,7 @@ and Others(1).
 stopwords.txt contains stopwords in a text file. This will in preprocessing data
 1200 tweets are used for training, while the rest 300 are used for testing the algorithm
 The file naive.py contains code for Naive Bayes algorithm. 
-The file decision.py conatins code for Decision Trees. ID3 algorithm is used. 
+The file decision.py contains code for Decision Trees. ID3 algorithm is used. 
 
 Accuracy:
 Decision Trees: 98.33%
